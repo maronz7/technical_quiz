@@ -1,0 +1,40 @@
+body{
+  background: skyblue;
+  margin-top: 50px;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: white;
+  height: 100%;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+#question{
+  margin-top: 8px;
+}
+
+button{
+  background: rgb(0, 140, 255);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.choice-button{
+  margin-top: 30px;
+}
+
+#score{
+  margin-top: 50px;
+  text-align: center;
+}
+
+#result {
+  margin-top: 50px;
+  text-align:center;
+}
